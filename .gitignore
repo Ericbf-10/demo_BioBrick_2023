@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+mypkgname.Rcheck/
+mypkgname*.tar.gz
+mypkgname*.tgz
+centralDogmaEric.Rcheck/
+centralDogmaEric*.tar.gz
+centralDogmaEric*.tgz
