@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2023 demo_BioBrick_2023
+Copyright (c) 2023 demo_BioBrick_202
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
